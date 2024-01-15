@@ -1,6 +1,6 @@
 # TCP2201 - Cyberjaya Online Rental Management System
 
-This project (Assignment for TCP2201 - Object Oriented Analysis and Design) is developed as an online tool to revolutionize property rental in Cyberjaya. The Cyberjaya Online Rental Management System provides a comprehensive platform for property owners, agents, and potential tenants, offering a streamlined and user-friendly experience throughout the property rental lifecycle.
+This project is an assignment for the TCP2201 course at Multimedia University. The Cyberjaya Online Rental Management System is an online platform designed for property owners, agents, and potential tenants in Cyberjaya. It streamlines the property rental process by providing a user-friendly interface for listing, managing, and renting properties.
 
 ## Overview
 
